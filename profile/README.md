@@ -1,1 +1,3 @@
-![logo](../assets/gdscUsictLogo.png)
+<p align="center">
+<img src="../assets/gdscUsictLogo.png"/>
+</p>
