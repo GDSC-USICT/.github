@@ -1,3 +1,3 @@
 <p align="center">
-<img src="../assets/gdscUsictLogo.png"/>
+<img src="https://github.com/GDSC-USICT/.github/blob/main/assets/gdscUsictLogo.png"/>
 </p>
